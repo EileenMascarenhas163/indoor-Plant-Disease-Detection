@@ -1,5 +1,13 @@
 # Deep Learning-Based Indoor Plant Disease Detection: A Mobile Application Framework for Urban Environments
 
+![Project Logo](./images/image.png)
+
+
+![Project Logo](./images/1.png)
+![Project Logo](./images/2.png)
+
+
+
 ## Overview
 [cite_start]This project presents a comprehensive, high-accuracy solution for detecting diseases in indoor plants using advanced Deep Learning techniques[cite: 1]. [cite_start]The system is specifically designed to address the challenges of plant health monitoring in urban environments, offering a seamless, real-time diagnostic tool via a dedicated Android mobile application and a robust REST API[cite: 1].
 
