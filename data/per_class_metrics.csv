@@ -1,0 +1,24 @@
+Class,Precision,Recall,F1-Score,Support
+Rose_Black_Spot,0.9791666666666666,0.94,0.9591836734693877,300
+Rose_Downy_Mildew,0.9316239316239316,0.990909090909091,0.960352422907489,110
+Turmeric_Blotch,0.9692307692307692,0.9947368421052631,0.9818181818181819,190
+Rose_Healthy,0.9767857142857143,0.9891500904159132,0.9829290206648696,553
+Turmeric_Healthy,0.9943502824858758,0.9723756906077348,0.9832402234636871,181
+Rose_Yellow_Mosaic_Virus,1.0,0.9705882352941176,0.9850746268656716,68
+Rose_Rust,1.0,0.99,0.9949748743718593,100
+Chrysanthemum_Bacterial_Leaf_Spot,1.0,1.0,1.0,77
+Money Plant_Money_Plant_Bacterial_Wilt,1.0,1.0,1.0,58
+Hibiscus_Scorch,1.0,1.0,1.0,120
+Hibiscus_Necrosis,1.0,1.0,1.0,120
+Money Plant_Money_Plant_Chlorosis,1.0,1.0,1.0,11
+Hibiscus_Healthy,1.0,1.0,1.0,120
+Chrysanthemum_Healthy,1.0,1.0,1.0,77
+Chrysanthemum_Septoria_Leaf_Spot,1.0,1.0,1.0,77
+Hibiscus_Blight,1.0,1.0,1.0,120
+Rose_Powdery_Mildew,1.0,1.0,1.0,100
+Rose_Mosaic_Virus,1.0,1.0,1.0,100
+Money Plant_Money_Plant_Healthy,1.0,1.0,1.0,276
+Money Plant_Money_Plant_Manganese_Toxicity,1.0,1.0,1.0,60
+Turmeric_Aphid_Infestation,1.0,1.0,1.0,85
+Turmeric_Leaf_Necrosis,1.0,1.0,1.0,81
+Turmeric_Leaf_Spot,1.0,1.0,1.0,92
